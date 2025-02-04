@@ -39,7 +39,7 @@ There are two heuristic functions now:
 # How to build
 
 ```bash
-git clone https://github.com/Mes0903/Mase.git
+git clone https://github.com/wulukewu/Mase.git
 cd Mase
 git submodule init
 git submodule update
